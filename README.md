@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/liow___" target="blank"><img src="https://img.shields.io/twitter/follow/liow___?logo=twitter&style=for-the-badge" alt="liow___" /></a> </p>
 
-- 🌱 I’m currently learning **React,vue,express,devops,backend**
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **abilio.krismanuel@ti.ukdw.ac.id**
 
 <h3 align="left">Connect with me:</h3>
